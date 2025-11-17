@@ -1,5 +1,5 @@
 # AI Powered Personalized Resturant/Hotel Ranking System
-# Sentiment Analysis Module
+# Sentiment Analysis Model
 
 ## Overview
 The **Sentiment Analysis** project is a tool designed to analyze user comments and generate insights based on their sentiment. It also calculates a **trust score** for each comment to assess reliability. This project combines natural language processing (NLP) techniques with machine learning to provide accurate sentiment classification and trust scoring.

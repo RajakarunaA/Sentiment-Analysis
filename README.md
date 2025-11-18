@@ -12,7 +12,7 @@ The **Sentiment Analysis** project analyzes user comments and generates valuable
 
 The dataset used to train and evaluate the sentiment analysis model is available here:
 
-👉 **Dataset Download:** **[Click here to download Reviews.csv]([https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews])**
+👉 **Dataset Download:** **https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews**
 
 This dataset contains:
 

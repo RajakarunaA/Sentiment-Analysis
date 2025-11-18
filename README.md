@@ -1,6 +1,6 @@
 # AI Powered Personalized Restaurant/Hotel Ranking System
 
-# Sentiment Analysis Model
+# Trust Weighted Sentiment Analysis Model
 
 ## Overview
 

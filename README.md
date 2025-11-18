@@ -103,7 +103,7 @@ A **Personalized Hotel Recommendation System** improves accuracy by using real u
 
 ---
 
-### **1. Sentiment Analysis Model (Your Contribution)**
+### **1. Sentiment Analysis Model (My Contribution)**
 
 * Analyzes hotel reviews
 * Predicts sentiment (Positive/Neutral/Negative)
